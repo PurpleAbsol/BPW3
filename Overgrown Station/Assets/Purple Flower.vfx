@@ -17,9 +17,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 767
+    x: 770
     y: -190
-    width: 598
+    width: 595
     height: 2031
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -31,7 +31,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d4c867f6b72b714dbb5fd1780afe208, type: 3}
-  m_Name: Pink Flower
+  m_Name: Purple Flower
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 0}
@@ -71,7 +71,7 @@ VisualEffectResource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Pink Flower
+  m_Name: Purple Flower
   m_Graph: {fileID: 114350483966674976}
   m_Infos:
     m_RendererSettings:
@@ -771,7 +771,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"9a3bd91e571f14945a72c847e9ca7574","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"352ff634be6d544af962fa8af8abf7be","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mainTexture
@@ -3019,7 +3019,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614673}
       inputSlot: {fileID: 8926484042661614667}
-    position: {x: 767, y: 1631}
+    position: {x: 770.5, y: 1642.5}
     expandedSlots: []
     expanded: 1
 --- !u!114 &8926484042661614673
